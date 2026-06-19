@@ -1,4 +1,4 @@
-Istruções gerais para configurar e rodar o projeto:
+Instruções gerais para configurar e rodar o projeto:
 - Rodar o comando de instalação dos pacotes do Node.js (caso seja necessário);
 - Criar um banco de dados MySQL chamado lista_contatos e em seguida criar uma tabela com o nome contatos (código de criação abaixo):
     create table contatos (
